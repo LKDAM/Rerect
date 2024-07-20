@@ -1,1 +1,24 @@
-# Rerect
+# Rerect | Backend
+
+THIS BACKEND IS FORKED FROM MOMENTUM IT HAS NOTHING SPECIAL JUST CHANGES
+LIKE BATTLE PASS ITEM SHOP AND A FEW MORE THINGS
+
++ BATTLE PASS S2 - S14
++ ITEM SHOP CHANGED
++ CAHNGES IN CLOUD STORAGE
++ ATHENA CHANGES
+
+# TO DO
+- quests
+- xp
+- leveling up
+- queue times
+- itemshop rotator
+- matches implemented in backend
+- fix 14.60 battle pass
+- fix battle pass custom skins
+- add stuff to athena
+
+THIS BACKEND IS MADE BY MOMENTUM I JUST CHANGED AND ADDED A WHOLE BUNCH OF STUFF BUT
+CREDITS STILL GO TO MOMENTUM FOR MAKING THE BACKEND
+JOIN MY OG FORTNITE DISCORD SERVER HERE ---> https://discord.gg/nJUcdR7k
